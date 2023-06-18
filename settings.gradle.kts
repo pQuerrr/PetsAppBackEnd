@@ -1,0 +1,1 @@
+rootProject.name = "ru.dogapp.dogapp-backend"
